@@ -43,3 +43,12 @@
   - 사용자의 개인정보를 관광지 추천외에는 사용하지 않습니다.
 
 ## 4. 참고문서
+- [웹사이트](https://korean.visitkorea.or.kr/main/main.do)
+- [여행](https://www.tripadvisor.co.kr )
+- https://korean.visitkorea.or.kr/main/main.do
+- https://kr.trip.com/travel-guide/
+- https://travel4u.naver.com/
+- [2023년 2분기 부산관광기업 모니터링 조사](https://www.cleaneye.go.kr/user/empStudyReport.do?entId=2012000016&itemId=studyReport&fixedYear=2019&pastYear=2015&beyondYear=2023&openedDate=2020.07.01&entName=%EB%B6%80%EC%82%B0%EA%B4%80%EA%B4%91%EA%B3%B5%EC%82%AC&entKind=006003&budgetSumYear=2020&openedDateHalf=2019&fixedHalfYear=2019&pastHalfYear=2015&dtFlagHalf=500220&openedDateQuarter=2020&fixedQuarterYear=2020&pastQuarterYear=2016&dtFlagQuarter=500110)
+- [2023년 3분기 부산관광기업 모니터링 조사](https://www.cleaneye.go.kr/user/empStudyReport.do?entId=2012000016&itemId=studyReport&fixedYear=2019&pastYear=2015&beyondYear=2023&openedDate=2020.07.01&entName=%EB%B6%80%EC%82%B0%EA%B4%80%EA%B4%91%EA%B3%B5%EC%82%AC&entKind=006003&budgetSumYear=2020&openedDateHalf=2019&fixedHalfYear=2019&pastHalfYear=2015&dtFlagHalf=500220&openedDateQuarter=2020&fixedQuarterYear=2020&pastQuarterYear=2016&dtFlagQuarter=500110)
+- [2023년 4분기 부산관광기업 모니터링 조사](https://www.cleaneye.go.kr/user/empStudyReport.do?entId=2012000016&itemId=studyReport&fixedYear=2019&pastYear=2015&beyondYear=2023&openedDate=2020.07.01&entName=%EB%B6%80%EC%82%B0%EA%B4%80%EA%B4%91%EA%B3%B5%EC%82%AC&entKind=006003&budgetSumYear=2020&openedDateHalf=2019&fixedHalfYear=2019&pastHalfYear=2015&dtFlagHalf=500220&openedDateQuarter=2020&fixedQuarterYear=2020&pastQuarterYear=2016&dtFlagQuarter=500110)
+- [2023 부산 방문 관광객 실태조사](https://www.cleaneye.go.kr/user/empStudyReport.do?entId=2012000016&itemId=studyReport&fixedYear=2019&pastYear=2015&beyondYear=2023&openedDate=2020.07.01&entName=%EB%B6%80%EC%82%B0%EA%B4%80%EA%B4%91%EA%B3%B5%EC%82%AC&entKind=006003&budgetSumYear=2020&openedDateHalf=2019&fixedHalfYear=2019&pastHalfYear=2015&dtFlagHalf=500220&openedDateQuarter=2020&fixedQuarterYear=2020&pastQuarterYear=2016&dtFlagQuarter=500110)
