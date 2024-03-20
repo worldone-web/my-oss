@@ -43,8 +43,8 @@
   - 사용자의 개인정보를 관광지 추천외에는 사용하지 않습니다.
 
 ## 4. 참고문서
-- [웹사이트](https://korean.visitkorea.or.kr/main/main.do)
-- [여행](https://www.tripadvisor.co.kr )
+- [대한민국 구석구석](https://korean.visitkorea.or.kr/main/main.do)
+- [tripadviser](https://www.tripadvisor.co.kr )
 - https://korean.visitkorea.or.kr/main/main.do
 - https://kr.trip.com/travel-guide/
 - https://travel4u.naver.com/
